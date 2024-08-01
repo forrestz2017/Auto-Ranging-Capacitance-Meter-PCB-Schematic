@@ -1,7 +1,5 @@
 // Capacitance Meter Project - EE 425 Microprocessor System Design
-// Team member: Angelica Quinto, Forrest Zhang
-// Schematic, Arduino code and breadboard prototypes- designed by Forrest Zhang
-// PCB and 3D printed Box- designed by Angelica Quinto
+// Designer - Forrest Zhang
 // Last edited: 6/7/2024
 
 #include <LiquidCrystal.h>
