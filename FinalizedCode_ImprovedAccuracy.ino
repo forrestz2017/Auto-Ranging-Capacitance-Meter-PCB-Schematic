@@ -1,4 +1,4 @@
-// Capacitance Meter Project - EE 425 Microprocessor System Design
+// Auto Ranging Capacitance Meter Project - EE 425 Microprocessor System Design
 // Designer - Forrest Zhang
 // Last edited: 6/7/2024
 
